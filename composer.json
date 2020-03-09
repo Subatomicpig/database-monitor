@@ -1,5 +1,5 @@
 {
-    "name": "ian/database-monitor",
+    "name": "subatomicpig/database-monitor",
     "description": "Monitor mysql databases and send a slack notification",
     "authors": [
         {
